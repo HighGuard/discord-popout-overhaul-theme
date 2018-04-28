@@ -1,0 +1,2 @@
+# discord-popout-overhaul-theme
+A bit of a design overhaul to the default boring "just some cirle" popout avatars. There was not a whole lot i was able to do to improve the quality of the avatars themselves sadly.   DESIGNED WITH THE USE OF THE DEFAULT THEME IN MIND
