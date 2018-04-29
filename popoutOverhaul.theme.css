@@ -5,7 +5,7 @@
 .maskProfile-1ObLFT,
 .avatar-16XVId.popout-2fzvxG,
 .avatar-16XVId.profile-ZOdGIb.avatar-3EQepX{
-    border-radius:0%;
+    border-radius:0% !important;
 }
 .image-33JSyf.maskProfile-1ObLFT.mask-3OgeRz{
     -webkit-mask:none;
