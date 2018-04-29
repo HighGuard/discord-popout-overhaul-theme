@@ -1,0 +1,186 @@
+.userPopout-3XzG_A,
+.avatarHint-1qgaV3,
+.maskProfile-1ObLFT,
+.avatar-16XVId.popout-2fzvxG,
+.avatar-16XVId.profile-ZOdGIb.avatar-3EQepX{
+    border-radius:0% !important;
+}
+.image-33JSyf.maskProfile-1ObLFT.mask-3OgeRz{
+    -webkit-mask:none;
+}
+.avatarHint-1qgaV3,
+.statusProfile-3ynqtt{
+    display:none;
+}
+
+.avatarWrapper-3H_478,
+.headerTop-3C2Zn0,
+.image-33JSyf.maskProfile-1ObLFT.mask-3OgeRz,
+.headerTagNoNickname-ENx6no{
+    height:190px;
+}
+.avatar-16XVId.popout-2fzvxG,
+.userSelectText-1o1dQ7,
+.headerTagNoNickname-36rgb9{
+    width:250px;
+}
+.image-33JSyf.maskProfile-1ObLFT.mask-3OgeRz{
+    width:auto;
+}
+
+.headerTop-3C2Zn0,
+.header-QKLPzZ.flex-1O1GKY.alignCenter-1dQNNs{
+    padding:0px;
+}
+.profileBadge-2BqF-Z,
+.avatarWrapperNormal-3wFMbf.avatarWrapper-3H_478{
+    margin:0px;
+}
+
+
+.avatar-16XVId.popout-2fzvxG{
+    height:190px;
+    transition:0.2s;
+}
+.avatar-16XVId.popout-2fzvxG:hover{
+    filter:brightness(75%);
+    background:rgba(0, 0, 0, 0.25);
+}
+.avatarStatus-3Ay1VL{
+    position:absolute;
+    top:2px;
+    right:2px;
+    width:22px;
+    height:22px;
+    display:inline;
+}
+.headerText-2sdzFM.userSelectText-1o1dQ7{
+    position:absolute;
+    top:150px;
+    z-index:1;
+    height:40px;
+    background:-webkit-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(47,49,54,0.4) 100%); 
+    transition:0.1s;
+    line-height:16px;
+    text-shadow:0px 0px 5px black;
+}
+.headerText-2sdzFM.userSelectText-1o1dQ7:hover{
+    opacity:0.5;
+    background:rgba(0, 0, 0, 0);
+}
+.headerTagNoNickname-ENx6no{
+    padding-top:15px;
+    font-size:17px;
+    text-shadow:0px 0px 5px black;
+}
+.headerName-fajvi9{
+    padding-top:4px;
+}
+.headerBotTag-1SM7sD, .botTagInvert-18-95s.botTag-2WPJ74{
+    text-shadow:none;
+    line-height:16px !important;
+}
+.headerPlaying-j0WQBV,
+.headerSpotify-zpWxgT,
+.headerStreaming-2FjmGz,
+.headerXbox-3G-4PF{
+	background:#36393f;
+}
+
+
+.header-QKLPzZ.flex-1O1GKY.alignCenter-1dQNNs,
+.avatar-16XVId.profile-ZOdGIb.avatar-3EQepX{
+    width:600px;
+    height:180px;
+}
+.avatar-16XVId.profile-ZOdGIb.avatar-3EQepX{
+    filter:blur(4px);
+}
+
+.topSectionNormal-2-vo2m,
+.topSectionPlaying-1J5E4n,
+.topSectionStreaming-1Tpf5X,
+.topSectionSpotify-1lI0-P{
+    background:rgba(47,49,54,0.5) !important;
+    text-shadow:0px 0px 5px black;
+}
+.activityProfile-2bJRaP.activity-1ythUs{
+    width:600px;
+    height:120px;
+    position:absolute;
+    top:0px;
+    background:rgba(0,0,0,0);
+    padding-left:20px;
+}
+.listeningActionsProfile-1fYwru{
+	margin-right:15px;
+}
+.button-1Pkqso.button-38aScr{
+	background:rgba(0,0,0,0.1);
+}
+.actionButton-3W1xZa.button-38aScr,
+.additionalActionsIcon-1FoUlE{
+    position:absolute;
+    z-index:1;
+}
+.actionButton-3W1xZa.button-38aScr{
+	top:145px;
+    right:10px;
+	background:rgba(0,0,0,0.1);
+	border:1px solid;
+	border-color:hsla(0,0%,100%,.2);
+	transition:0.17s ease;
+}
+.actionButton-3W1xZa.button-38aScr:hover{
+	background:rgba(0,0,0,0.1);
+	border-color:hsla(0,0%,100%,.5);
+}
+.contents-18-Yxp{
+	color:hsla(0,0%,100%,.8);
+}
+.additionalActionsIcon-1FoUlE{
+    right:1px;
+    top:5px;
+}
+.actionsProfile-1QS4n-{
+    margin-left:0px;
+    margin-right:15px;
+}
+.actionsProfile-jEtjVX.actionsProfile-1QS4n-,
+.listeningActionsProfile-1fYwru{
+    padding-right:15px;
+}
+
+
+.headerInfo-30uryT{
+    position:absolute;
+    top:0px;
+    width:600px;
+    height:210px;
+	background:-webkit-linear-gradient(top, rgba(47,49,54,0.6) 60%,rgba(47,49,54,1) 90%);
+    text-shadow:0px 0px 5px black;
+	vertical-align:bottom;
+    padding-left:20px;
+}
+.nameTag-2IFDfL.userSelectText-1o1dQ7.nameTag-m8r81H{
+    width:600px;
+    padding-top:145px;
+    padding-bottom:2px;
+}
+.profileBadges-2vWUYb{
+	margin-top:1px;
+}
+.username.username-3gJmXY{
+	font-size:20px;
+}
+
+.tabBarContainer-1s1u-z{
+    text-shadow:0px 0px 5px black;
+}
+.tabBarContainer-1s1u-z,
+.tab-bar.tabBar-2MuP6-.TOP{
+	background:rgba(0,0,0,0);
+    position:relative;
+    height:30px;
+    border:0;
+}
