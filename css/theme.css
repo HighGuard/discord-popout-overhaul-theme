@@ -80,9 +80,10 @@
     text-shadow:none;
     line-height:16px !important;
 }
+.headerNormal-T_seeN,
 .headerPlaying-j0WQBV,
-.headerSpotify-zpWxgT,
 .headerStreaming-2FjmGz,
+.headerSpotify-zpWxgT,
 .headerXbox-3G-4PF{
 	background:#36393f;
 }
@@ -100,7 +101,8 @@
 .topSectionNormal-2-vo2m,
 .topSectionPlaying-1J5E4n,
 .topSectionStreaming-1Tpf5X,
-.topSectionSpotify-1lI0-P{
+.topSectionSpotify-1lI0-P,
+.topSectionXbox-3fWLjS{
     background:rgba(47,49,54,0.5) !important;
     text-shadow:0px 0px 5px black;
 }
