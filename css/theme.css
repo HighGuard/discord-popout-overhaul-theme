@@ -133,7 +133,8 @@
 	border-color:hsla(0,0%,100%,.2);
 	transition:0.17s ease;
 }
-.actionButton-3W1xZa.button-38aScr:hover{
+.actionButton-3W1xZa.button-38aScr:hover,
+.button-1Pkqso.button-38aScr:hover{
 	background:rgba(0,0,0,0.3);
 	border-color:hsla(0,0%,100%,.5);
 }
