@@ -1,8 +1,11 @@
+//META{"name":"Popout Overhaul Debug","description":"debug","author":"HighGuard","version":"1.3"}*//
+
 .userPopout-3XzG_A,
 .avatarHint-1qgaV3,
 .maskProfile-1ObLFT,
 .avatar-16XVId.popout-2fzvxG,
-.avatar-16XVId.profile-ZOdGIb.avatar-3EQepX{
+.avatar-16XVId.profile-ZOdGIb.avatar-3EQepX,
+.wrapper-2F3Zv8.popout-2fzvxG{
     border-radius:0% !important;
 }
 .image-33JSyf.maskProfile-1ObLFT.mask-3OgeRz{
@@ -17,17 +20,17 @@
 .headerTop-3C2Zn0,
 .image-33JSyf.maskProfile-1ObLFT.mask-3OgeRz,
 .headerTagNoNickname-ENx6no,
-.da-popout,
-.da-avatar{
+.popout-2fzvxG,
+.profile-ZOdGIb.avatar-3EQepX{
     height:190px;
 }
 .avatar-16XVId.popout-2fzvxG,
 .userSelectText-1o1dQ7,
 .headerTagNoNickname-36rgb9,
-.da-popout{
+.popout-2fzvxG{
     width:250px;
 }
-.da-avatar{
+.profile-ZOdGIb.avatar-3EQepX{
     width:600px;
 }
 .image-33JSyf.maskProfile-1ObLFT.mask-3OgeRz{
@@ -44,11 +47,13 @@
 }
 
 
-.avatar-16XVId.popout-2fzvxG{
+.popout-2fzvxG,
+.profile-ZOdGIb{
     height:190px;
     transition:0.2s;
 }
-.avatar-16XVId.popout-2fzvxG:hover{
+.wrapper-2F3Zv8.popout-2fzvxG:hover,
+.profile-ZOdGIb:hover{
     filter:brightness(75%);
     background:rgba(0, 0, 0, 0.25);
 }
@@ -166,7 +171,7 @@
     top:0px;
     width:600px;
     height:210px;
-	background:-webkit-linear-gradient(top, rgba(47,49,54,0.75) 30%,rgba(47,49,54,1) 65%);
+	background:-webkit-linear-gradient(top, rgba(47,49,54,0.75) 30%,rgba(47,49,54,1) 85%);
     text-shadow:0px 0px 5px black;
 	vertical-align:bottom;
     padding-left:20px;
