@@ -45,13 +45,11 @@
 }
 
 
-.popout-2fzvxG,
-.profile-ZOdGIb{
+.popout-2fzvxG{
     height:190px;
     transition:0.2s;
 }
-.wrapper-2F3Zv8.popout-2fzvxG:hover,
-.profile-ZOdGIb:hover{
+.wrapper-2F3Zv8.popout-2fzvxG:hover{
     filter:brightness(75%);
     background:rgba(0, 0, 0, 0.25);
 }
