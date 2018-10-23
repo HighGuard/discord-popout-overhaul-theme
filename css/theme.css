@@ -129,6 +129,9 @@
 	background:rgba(0,0,0,0.1);
 	border-color:hsla(0,0%,100%,.0);
 }
+.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.actionsProfile-1QS4n-{
+	margin-top:-50px;
+}
 .actionButton-3W1xZa.button-38aScr,
 .additionalActionsIcon-1FoUlE{
     position:absolute;
@@ -162,15 +165,12 @@
 }*/
 
 .actionsProfile-1QS4n-,
-.playButtonWrapper-3-YFAn
+.playButtonWrapper-3-YFAn,
 .listeningActionsProfile-1fYwru{
     margin-left:0px;
 }
-.listeningActionsProfile-1fYwru{
-    margin-right:0px;
-}
 .actionsProfile-1QS4n-,
-.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignEnd-1D6PQi.noWrap-3jynv6.listeningActionsProfile-1fYwru{
+.listeningActionsProfile-1fYwru{
 	margin-right:25px;
 }
 
